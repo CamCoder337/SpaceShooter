@@ -1,0 +1,17 @@
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\bin\Debug\net8.0-windows\SpaceShooter.exe
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\bin\Debug\net8.0-windows\SpaceShooter.deps.json
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\bin\Debug\net8.0-windows\SpaceShooter.runtimeconfig.json
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\bin\Debug\net8.0-windows\SpaceShooter.dll
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\bin\Debug\net8.0-windows\SpaceShooter.pdb
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.Form1.resources
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.AssemblyInfo.cs
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.dll
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\refint\SpaceShooter.dll
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.pdb
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.genruntimeconfig.cache
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\ref\SpaceShooter.dll
+C:\Users\Fred Tchiadeu\source\repos\SpaceShooter\SpaceShooter\obj\Debug\net8.0-windows\SpaceShooter.Properties.Resources.resources
